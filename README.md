@@ -1,16 +1,49 @@
 # remote_config_example
 
-A new Flutter project.
+## Türkçe README
+Bu Flutter uygulaması, Firebase Remote Config kullanarak belirli bir indirim zamanı için bir banner'ı görüntüler ve indirim sona erdiğinde banner'ı kaldırır. Bu özellik, uygulama sürümünü güncellemeden görsel içerikleri güncellemenize olanak tanır.
 
-## Getting Started
+# Özellikler
+Firebase Remote Config entegrasyonu
+İndirim zamanı için gösterilen banner
+İndirim bittiğinde banner'ı kaldırmak için gerçek zamanlı yapılandırma
+Meyve ve sebzelerin yatay listesi
+Meyvelerin resimlerini ve isimlerini gösteren GridView listesi
+# Kurulum
+Firebase SDK'sını yükleyin ve Firebase projesini başlatın.
 
-This project is a starting point for a Flutter application.
+Projeyi klonlayın:
+```
+bash
+Copy code
+git clone https://github.com/kullaniciAdi/projeAdi.git
+```
 
-A few resources to get you started if this is your first Flutter project:
+Proje klasörüne geçin:
+```
+bash
+Copy code
+cd projeAdi
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Gerekli bağımlılıkları yükleyin:
+```
+bash
+Copy code
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Firebase Remote Config Ayarları
+Firebase konsolunda bir Remote Config parametresi oluşturun:
+
+Anahtar: widgetActivateKey
+Tür: bool
+Değer: true (İndirim zamanında göster), false (İndirim bittiğinde gösterme)
+Çalıştırma
+Projeyi başlatmak için:
+
+bash
+Copy code
+flutter run
+Katkı
+Katkıda bulunmak için pull request (PR) gönderebilirsiniz. Hataları düzeltmek veya yeni özellikler eklemek istiyorsanız, bunu bir PR ile yapabilirsiniz.
