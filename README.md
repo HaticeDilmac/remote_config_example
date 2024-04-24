@@ -48,7 +48,7 @@ To contribute, you can submit a pull request (PR). If you want to fix bugs or ad
 
 
 <img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/8f0cd6bc-8787-4cb9-8b7f-7291dc8ccc96" width="200" height="400">  
-<img src="Screenshot 2024-04-24 at 15 48 31" src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/e60ff374-2b29-4231-8879-c6f346f69426" width="400" height="200"> 
+<img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/4f254ae0-32bf-4479-acee-2811ee87f8ac" width="400" height="200"> 
 <img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/9c8451ab-e2fc-4e8e-a7e4-732a5f116300" width="200" height="400">
 <img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/177fba3f-b983-4aba-913a-f73fe209df89" width="200" height="400">  
 
