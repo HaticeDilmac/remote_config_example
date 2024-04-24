@@ -47,15 +47,10 @@ To contribute, you can submit a pull request (PR). If you want to fix bugs or ad
 # ScreenShot
 
 
-<img width="1155" alt="Screenshot 2024-04-24 at 15 48 31" src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/c182c96b-d88a-40ed-a27f-83b3329e181b">
-
-![Simulator Screenshot - iPhone 15 - 2024-04-24 at 15 49 39](https://github.com/HaticeDilmac/remote_config_example/assets/100489350/c8862b00-f99b-4888-b427-67b3286eae17)
-<img width="1152" alt="Screenshot 2024-04-24 at 15 49 55" src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/a4fffb2b-d754-4061-9926-7a55bf452696">
-
 <img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/8f0cd6bc-8787-4cb9-8b7f-7291dc8ccc96" width="200" height="400">  
-<img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/8f0cd6bc-8787-4cb9-8b7f-7291dc8ccc96" width="200" height="400"> 
-<img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/8f0cd6bc-8787-4cb9-8b7f-7291dc8ccc96" width="200" height="400">
-<img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/8f0cd6bc-8787-4cb9-8b7f-7291dc8ccc96" width="200" height="400">  
+<img src="Screenshot 2024-04-24 at 15 48 31" src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/e60ff374-2b29-4231-8879-c6f346f69426" width="200" height="400"> 
+<img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/9c8451ab-e2fc-4e8e-a7e4-732a5f116300" width="200" height="400">
+<img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/177fba3f-b983-4aba-913a-f73fe209df89" width="200" height="400">  
 
 ## Türkçe README
 Bu Flutter uygulaması, Firebase Remote Config kullanarak belirli bir indirim zamanı için bir banner'ı görüntüler ve indirim sona erdiğinde banner'ı kaldırır. Bu özellik, uygulama sürümünü güncellemeden görsel içerikleri güncellemenize olanak tanır.
