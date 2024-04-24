@@ -46,12 +46,13 @@ To contribute, you can submit a pull request (PR). If you want to fix bugs or ad
 
 # ScreenShot
 
-
 <img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/8f0cd6bc-8787-4cb9-8b7f-7291dc8ccc96" width="200" height="400">  
 <img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/4f254ae0-32bf-4479-acee-2811ee87f8ac" width="750" height="70"> 
 <img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/9c8451ab-e2fc-4e8e-a7e4-732a5f116300" width="200" height="400">
 <img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/177fba3f-b983-4aba-913a-f73fe209df89" width="750" height="70">  
 
+
+--------------------------
 ## Türkçe README
 Bu Flutter uygulaması, Firebase Remote Config kullanarak belirli bir indirim zamanı için bir banner'ı görüntüler ve indirim sona erdiğinde banner'ı kaldırır. Bu özellik, uygulama sürümünü güncellemeden görsel içerikleri güncellemenize olanak tanır.
 
@@ -91,8 +92,14 @@ Değer: true (İndirim zamanında göster), false (İndirim bittiğinde gösterm
 Çalıştırma
 Projeyi başlatmak için:
 
-bash
 Copy code
 flutter run
 Katkı
 Katkıda bulunmak için pull request (PR) gönderebilirsiniz. Hataları düzeltmek veya yeni özellikler eklemek istiyorsanız, bunu bir PR ile yapabilirsiniz.
+
+# Ekran Görüntüleri
+
+<img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/8f0cd6bc-8787-4cb9-8b7f-7291dc8ccc96" width="200" height="400">  
+<img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/4f254ae0-32bf-4479-acee-2811ee87f8ac" width="750" height="70"> 
+<img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/9c8451ab-e2fc-4e8e-a7e4-732a5f116300" width="200" height="400">
+<img src="https://github.com/HaticeDilmac/remote_config_example/assets/100489350/177fba3f-b983-4aba-913a-f73fe209df89" width="750" height="70">  
